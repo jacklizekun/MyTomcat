@@ -21,5 +21,4 @@ encoding//src/MyTomcat/util/SessionManager.java=UTF-8
 encoding//src/MyTomcat/util/WebXMLUtil.java=UTF-8
 encoding//src/MyTomcat/watcher/ContextFileChangeWatcher.java=UTF-8
 encoding//src/MyTomcat/watcher/WarFileWatcher.java=UTF-8
-encoding/<project>=GBK
 separateDerivedEncodings=true
